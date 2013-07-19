@@ -29,6 +29,7 @@ public class test {
 		System.out.println(result);
 		System.out.println("main function end");
 	}
+
 	
 	public static void main(String [] args){
 		mainFunction();
